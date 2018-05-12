@@ -1,0 +1,26 @@
+_repo: Cruise-and-Captures-of-the-Alabama_35107
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35107-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goodrich, Albert M.
+    gutenberg_agent_id: '37459'
+    url: http://www.gutenberg.org/2009/agents/37459
+description: ''
+gutenberg_issued: '2011-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35107'
+  lccn: 07027369
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations, Confederate'
+- !lcsh 'Alabama (Screw sloop)'
+title: Cruise and Captures of the Alabama
+url: http://www.gutenberg.org/ebooks/35107
